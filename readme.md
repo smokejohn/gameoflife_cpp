@@ -2,6 +2,7 @@
 
 John Conway's Game of Life cellular automaton simulation implemented in C++, with CMake as buildsystem.
 
+Gosper's Gun Example:
 ![Preview animation of Gosper's Gun example](imgs/gospers_gun.gif)
 
 This code simply prints/draws the current grid state into your terminal as unicode characters.
