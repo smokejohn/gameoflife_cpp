@@ -5,7 +5,7 @@ John Conway's Game of Life cellular automaton simulation implemented in C++, wit
 ![Preview animation of Gosper's Gun example](imgs/gospers_gun.gif)
 
 This code simply prints/draws the current grid state into your terminal as unicode characters.
-It's only been tested on linux (kitty, gnome-terminal, guake) it may work on windows as long as your terminal supports the display of unicode characters (such as \u2B1B & \u2B1C).
+It's only been tested on linux (kitty, gnome-terminal, guake) it may work on windows as long as your terminal supports the display of unicode characters (such as \u2B1B ⬛ & \u2B1C ⬜).
 
 ## Building
 
